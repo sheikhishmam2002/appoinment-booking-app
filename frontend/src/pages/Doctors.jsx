@@ -129,5 +129,3 @@ const Doctors = () => {
 };
 
 export default Doctors;
-
-// 2:07:58
